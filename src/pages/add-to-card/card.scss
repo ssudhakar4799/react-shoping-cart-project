@@ -1,0 +1,14 @@
+.cart-container{
+    display: flex;
+    background-color: lightseagreen;
+    padding:5%;
+
+    .cart-box{
+        background-color: lightgray;
+        margin-right: 10px;
+        text-align: center;
+       img{
+        width: 30px;
+       }
+    }
+}

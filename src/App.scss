@@ -1,0 +1,24 @@
+.navi{
+    display: flex;
+    list-style: none;
+    justify-content:space-evenly;
+    background-color: orange;
+    padding: 1% 0 2% 0;
+    
+}
+.link{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+   
+}
+.link:hover{
+    color: red;
+}
+.card{
+    color: darkblue !important;
+}
+.btn:hover{
+    color: red;
+   
+}
